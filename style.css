@@ -9,7 +9,6 @@
 body {
     background-color: #000;
     height: 100vh;
-    margin: 20px;
 }
 .interface{
     max-width: 1280px;
@@ -36,6 +35,8 @@ h2.titulo{
 h2.titulo span{
     color: #0000cd;
 }
+p {
+    margin: 20px;
 button:hover,form .btn-enviar input:hover{
     box-shadow: 0px 0px 8px #0000cd ;
     transform:scale(1.05);
