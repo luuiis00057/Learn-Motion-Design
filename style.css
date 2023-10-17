@@ -9,6 +9,7 @@
 body {
     background-color: #000;
     height: 100vh;
+    margin: 20px;
 }
 .interface{
     max-width: 1280px;
